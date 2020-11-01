@@ -1,0 +1,27 @@
+{
+  "name": "mcstatus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "bin":{
+    "rcon": "app.js"
+  },
+  "dependencies": {
+    "minecraft-server-util": "^3.0.4",
+    "minimist": "^1.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the1337n00b/mcstatus.git"
+  },
+  "author": "the1337n00b",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the1337n00b/mcstatus/issues"
+  },
+  "homepage": "https://github.com/the1337n00b/mcstatus#readme"
+}
