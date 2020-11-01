@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const status = require('./mcstatus.js')
 
 async function main(){
